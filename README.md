@@ -1,6 +1,8 @@
-# Tosa Blanc Python
+# QCM Python
 
 Ce dépôt contient une série de modules pour l'apprentissage et l'évaluation des compétences en Python. Chaque chapitre comprend un ensemble de questions et leurs corrections détaillées.
+
+> Ce dépôt a pour objectif de servir de support pédagogique pour la préparation à la certification TOSA Python. Cependant, il est important de noter que ce matériel n'est pas officiel et ne reflète pas fidèlement le contenu exact de la certification TOSA Python.
 
 ## Contenu du cours
 
