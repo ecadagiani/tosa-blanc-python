@@ -56,7 +56,8 @@ Quel est le résultat de l'expression suivante : `int("15.5")` ?
 Quelle expression permet de créer une chaîne de caractères sur plusieurs lignes ?
 - A)
 ```
-"Ligne 1 \n Ligne 2"
+"Ligne 1 
+Ligne 2"
 ```
 - B)
 ```
@@ -81,7 +82,27 @@ Quel est le résultat de l'expression `"abc" == "ABC"` en Python ?
 
 ### Question 10 : Commentaires
 Quelle est la syntaxe correcte pour un commentaire de plusieurs lignes en Python ?
-- A) `// Ceci est un commentaire sur plusieurs lignes //`
-- B) `/* Ceci est un commentaire sur plusieurs lignes */`
-- C) `''' Ceci est un commentaire sur plusieurs lignes '''`
-- D) `<!-- Ceci est un commentaire sur plusieurs lignes -->`
+- A) 
+```
+// Ceci est un commentaire
+sur plusieurs lignes //
+```
+- B) 
+```
+/*
+Ceci est un commentaire
+sur plusieurs lignes
+*/
+```
+- C) 
+```
+'''
+Ceci est un commentaire
+sur plusieurs lignes
+'''
+```
+- D) 
+```
+<!-- Ceci est un commentaire
+sur plusieurs lignes -->
+```

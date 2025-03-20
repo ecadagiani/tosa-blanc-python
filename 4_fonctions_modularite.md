@@ -4,10 +4,28 @@
 
 ### Question 1 : Définition de fonction
 Quelle est la syntaxe correcte pour définir une fonction en Python ?
-- A) `function ma_fonction(paramètres) { instructions }`
-- B) `def ma_fonction(paramètres): instructions`
-- C) `def ma_fonction(paramètres) { instructions }`
-- D) `function ma_fonction(paramètres): instructions`
+- A)
+```
+function ma_fonction(paramètres) { 
+    instructions
+}
+```
+- B)
+```
+def ma_fonction(paramètres): 
+    instructions
+```
+- C)
+```
+def ma_fonction(paramètres) { 
+    instructions 
+}
+```
+- D)
+```
+function ma_fonction(paramètres): 
+    instructions
+```
 
 ### Question 2 : Valeur de retour
 Que se passe-t-il lorsqu'une fonction Python n'inclut pas d'instruction `return` ?
